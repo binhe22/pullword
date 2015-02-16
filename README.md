@@ -2,11 +2,11 @@
 An Python package for [pullword.com] (http://pullword.com). 
 
 #Install
-    ``` 
-    pip install pullword 
-    or 
-    easy_install pullword 
-    ```
+``` 
+pip install pullword 
+or 
+easy_install pullword 
+```
 
 #Usage
 ```
