@@ -25,8 +25,9 @@ debug:debug=0, debug model is off; debug=1 debug mode in on(show all probabiliti
 threshold: must be [0-1],  pull word with probability with threshold.
 
 ##output
-pullword will return a list.
-is debug = 0, it will return a list of words;
+function pullword will return a list.
+
+if debug = 0, it will return a list of words;
 ```
 [u'华中,u'华中科技'...]
 ```
